@@ -1,0 +1,10 @@
+@media (max-width:1024px) {
+    .menu img {
+        right:0;
+        width:130px;
+    }
+    .container {
+        width:95%;
+        margin:0 auto;
+    }  
+}

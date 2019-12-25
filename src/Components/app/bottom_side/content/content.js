@@ -5,7 +5,7 @@ import './content.css';
 
 const Content = () => {
     return (
-        <div className="bottom_side">
+        <div className="content">
             <ContentLeft />
             <ContentRight />
         </div>

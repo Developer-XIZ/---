@@ -1,0 +1,9 @@
+body {
+    padding: 0;
+    margin:0;
+    font-family: Arial;
+}
+.container {
+    background: #0e0e0e;
+    padding: 0 80px;
+}

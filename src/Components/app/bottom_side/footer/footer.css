@@ -1,0 +1,40 @@
+footer {
+    margin-top:15px;
+}
+footer ul {
+    display: flex;
+    background: linear-gradient(#629a13,#558022);
+    margin:0;
+    padding: 15px 0;
+    justify-content:center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.6);
+}
+footer ul li {
+    list-style-type: none;
+    border-right:1px solid #d1fb4a;
+    padding:0 20px;
+}
+footer ul li:last-child {
+    border:none;
+}
+footer ul li a {
+    text-decoration: none;
+    color:#d1fb4a;
+    font-weight: bold;
+    text-align: center;
+}
+footer ul li a:hover {
+    text-decoration: underline;
+}
+footer p {
+    color:#fff;
+    margin: 20px 0 0 0;
+    text-align: center;
+}
+footer p a {
+    text-decoration: none;
+    color:#d1fb4a;
+} 
+footer p a:hover {
+    text-decoration: underline;
+}

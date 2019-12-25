@@ -1,0 +1,45 @@
+@media (max-width:768px) {
+    .top_wrap .description {
+        flex-basis:70%;
+        font-size: 12px;
+    }
+    .banner .slider .photo {
+        height:200px;
+    }
+    .banner .slider .photo p{
+        font-size: 16px;
+    }
+    .content {
+        display: block;
+    }
+    section {
+        display: flex;
+        position: relative;
+        flex-wrap:wrap;
+        margin:60px 0 20px;
+    }
+    section h2 {
+        position: absolute;
+        top:-40px;
+        margin:0;
+    }
+    section article {
+        flex-basis:48%;
+        margin:5px 0;
+    }
+    section aside {
+        display: none;
+    }
+    .gallery .photo img{
+        width:150px;
+    }
+    .gallery .photo {
+        overflow-x: hidden;
+        display: flex;
+        justify-content:space-around;
+    }
+    .gallery .photo a {
+        margin:0 10px;
+    }
+    
+}

@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './header';
 import BottomSide from './bottom_side';
 import './app.css';
+import './mobile.css';
 
 const App = () => {
   return (
